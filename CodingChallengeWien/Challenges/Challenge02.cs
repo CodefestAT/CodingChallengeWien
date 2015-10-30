@@ -16,6 +16,7 @@ namespace CodingChallengeWien.Challenges
 
         internal static bool MacBerechnung(string macAdresse)
         {
+            //write checking algo
             return false;
         }
     }
